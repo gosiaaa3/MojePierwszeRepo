@@ -1,0 +1,1 @@
+tworzenie nowego pliku tekstowego do github
