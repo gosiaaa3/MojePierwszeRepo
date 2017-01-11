@@ -28,3 +28,9 @@ nieskonczenie wiele razy
 6
 7
 d
+Ile razy wykona sie petla: for (int i=4; i>=-2; i--)
+ani razu
+nieskonczenie wiele razy
+6
+7
+d
